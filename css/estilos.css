@@ -3,3 +3,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   color:pink
 }
+
+.cabecera {
+  border:1px solid green;
+  color:blue
+}
